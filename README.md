@@ -52,7 +52,7 @@
 </p>
 <p><b>2) Visualisation using Power BI Dashboard</b></p>
 <p>-> Formula to create normalised revenue (norm_amount) column, assuming a constant conversion rate of $ 1 = ₹ 75:</p>
-<p>`= Table.AddColumn(#"Filtered Rows", "norm_amount", each if [currency] = "USD" or [currency] ="USD#(cr)" then [sales_amount]*75 else [sales_amount], type any)`</p>
+<p>*= Table.AddColumn(#"Filtered Rows", "norm_amount", each if [currency] = "USD" or [currency] ="USD#(cr)" then [sales_amount]*75 else [sales_amount], type any)*</p>
 
 
 <p align="center"> 
