@@ -36,9 +36,9 @@
 
 <h2> :gear: Pre-requisites</h2>
 <ul>
- <li>:sql: MySql</li>
- <li>:power_bi: Power BI</li>
- <li>:database: Sales Data - from <a href="https://github.com/codebasics/DataAnalysisProjects/tree/master/1_SalesInsights">CodeBasics</a></li>
+ <li>MySql</li>
+ <li>Power BI</li>
+ <li>Sales Data - from <a href="https://github.com/codebasics/DataAnalysisProjects/tree/master/1_SalesInsights">CodeBasics</a></li>
 </ul>
 
 <p align="center"> 
