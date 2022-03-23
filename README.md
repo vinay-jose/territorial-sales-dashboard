@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="image/BI logo.png" alt="BI logo.png" width="84px" height="66px">
+  <img src="image/BI logo.png" alt="BI logo.png" width="126px" height="99px">
 </p>
 <h1 align="center"> Territorial Sales Dashboard </h1>
 <h3 align="center"> Atliq Technologies - Sales from 2017 to 2020.</h3>
