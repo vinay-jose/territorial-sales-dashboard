@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="image/BI logo.png" alt="BI logo.png" width="80px" height="80px">
+  <img src="image/BI logo.png" alt="BI logo.png" width="84px" height="66px">
 </p>
 <h1 align="center"> Territorial Sales Dashboard </h1>
 <h3 align="center"> Atliq Technologies - Sales from 2017 to 2020.</h3>
@@ -17,7 +17,9 @@
 <p>
 2) An interactive BI dashboard to be developed to draw insights from aforementioned data using Power BI.</p>
 
-![----------------------------------------------------]("image/aqua.png")
+<p align="center"> 
+  <img src="image/aqua.png" alt="aqua.png">
+</p>
 
 <h2> :floppy_disk: Files Description</h2>
 
@@ -27,7 +29,10 @@
   <li><b>Territorial Sales Overview_Atliq.pbix</b> - The interactive BI dashboard file developed using Power BI Desktop.</li>
 </ul>
 
-![----------------------------------------------------]("image/aqua.png")
+<p align="center"> 
+  <img src="image/aqua.png" alt="aqua.png">
+</p>
+
 
 <h2> :gear: Pre-requisites</h2>
 <ul>
@@ -36,7 +41,10 @@
  <li>:database: Sales Data - from <a href="https://github.com/codebasics/DataAnalysisProjects/tree/master/1_SalesInsights">CodeBasics</a></li>
 </ul>
 
-![----------------------------------------------------]("image/aqua.png")
+<p align="center"> 
+  <img src="image/aqua.png" alt="aqua.png">
+</p>
+
 
 <h2> :clipboard: Methodologies</h2>
 <p><b>1) EDA using SQL queries</b></p>
@@ -47,16 +55,22 @@
 <p>`= Table.AddColumn(#"Filtered Rows", "norm_amount", each if [currency] = "USD" or [currency] ="USD#(cr)" then [sales_amount]*75 else [sales_amount], type any)`</p>
 
 
-![----------------------------------------------------]("image/aqua.png")
+<p align="center"> 
+  <img src="image/aqua.png" alt="aqua.png">
+</p>
+
 <!---
 <h2> :snowflake: Insights</h2>
 --->
 <h2> :bulb: Insights</h2>
 <p>1) </p>
 <p>2) </p>
-<p>3) Visualisation using Power BI Dashboard</p>
+<p>3) </p>
 
-![----------------------------------------------------]("image/aqua.png")
+<p align="center"> 
+  <img src="image/aqua.png" alt="aqua.png">
+</p>
+
 
 <h2> :books: References</h2>
 <ul>
@@ -75,7 +89,10 @@
 
 </ul>
 
-![----------------------------------------------------]("image/aqua.png")
+<p align="center"> 
+  <img src="image/aqua.png" alt="aqua.png">
+</p>
+
 
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
