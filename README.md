@@ -6,9 +6,7 @@
 <h5 align="center"> Thanks to <a href="https://github.com/codebasics/DataAnalysisProjects/tree/master/1_SalesInsights">CodeBasics</a> for making this data public for educational purposes.</h5>
 
 <!--- 
-<p align="center"> 
-<img src="gif/spam detector.gif" alt="Animated gif pacman game" height="382px">
-</p>
+
 --->
 <h2> :dart: Objectives</h2>
 
@@ -63,9 +61,18 @@
 <h2> :snowflake: Insights</h2>
 --->
 <h2> :bulb: Insights</h2>
-<p>1) </p>
-<p>2) </p>
-<p>3) </p>
+
+<p align="center"> 
+<img src="image/Territorial Sales.gif" alt="Territorial Sales" height="382px">
+</p>
+
+<p>1) Delhi NCR and Mumbai markets have performed consistently over the years as the top markets in revenue and profits generated. Ahmedabad is also notable for its high profit margins as compared to its share of revenue.</p>
+<p>2) The overall generated revenue has taken a hit in 2020 which could be because of the COVID pandemic.</p>
+<p>3) From the pie chart for 'Top 5 Products', it is seen that 84.48% of sales transactions have no record of 'Product ID'. This gap needs to be addressed by the Data team.</p>
+
+<p align="center"> 
+<img src="image/Profit Margin.PNG" alt="Profit Margin" height="382px">
+</p>
 
 <p align="center"> 
   <img src="image/aqua.png" alt="aqua.png">
