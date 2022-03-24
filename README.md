@@ -63,7 +63,7 @@
 <h2> :bulb: Insights</h2>
 
 <p align="center"> 
-<img src="image/Territorial Sales.gif" alt="Territorial Sales" height="392px">
+<img src="image/Territorial Sales.gif" alt="Territorial Sales" height="399px">
 </p>
 
 <p>1) Delhi NCR and Mumbai markets have performed consistently over the years as the top markets in revenue and profits generated. Ahmedabad is also notable for its high profit margins as compared to its share of revenue.</p>
@@ -71,7 +71,7 @@
 <p>3) From the pie chart for 'Top 5 Products', it is seen that 84.48% of sales transactions have no record of 'Product ID'. This gap needs to be addressed by the Data team.</p>
 
 <p align="center"> 
-<img src="image/Profit Margin.PNG" alt="Profit Margin" height="392px">
+<img src="image/Profit Margin.PNG" alt="Profit Margin" height="399px">
 </p>
 
 <p align="center"> 
